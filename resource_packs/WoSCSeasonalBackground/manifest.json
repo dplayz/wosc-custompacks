@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Release 1.0-UI Subpack That Is Responsible for seasonal background for events",
+      "name": "World of SteelCraft Seasonal Background Subpack",
+      "uuid":"718b2a27-52c6-4adc-b7b7-2a3a65899802",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+      {
+        "description": "Release 1.0-UI Subpack That Is Responsible for seasonal background for events",
+        "type": "resources",
+        "uuid": "e158addd-aea4-4392-aba9-9ab3882802e0",
+        "version": [1, 0, 0]
+      }
+    ]
+}
